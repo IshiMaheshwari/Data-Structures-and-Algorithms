@@ -1,4 +1,4 @@
-//Kudane's Algorithm for Contiguous Max Sum
+//Kadane's Algorithm for Contiguous Max Sum
 class eg1psp
 {
 public static void main(String args[])
